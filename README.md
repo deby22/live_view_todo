@@ -18,3 +18,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+## Info
+
+Simple Live Todo List based on YT Course: https://youtu.be/xgz-HTot3R8
