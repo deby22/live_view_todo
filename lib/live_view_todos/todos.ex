@@ -99,7 +99,7 @@ defmodule LiveViewTodos.Todos do
   """
   def delete_todo(%Todo{} = todo) do
     todo
-    |> Repo.delete(todo)
+    |> Repo.delete()
     |> broadcast_change([:todo, :deleted])
   end
 
